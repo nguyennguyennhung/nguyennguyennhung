@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nguyennguyennhung
-- 👀 I’m interested in draw and code front end
+- 👀 I’m interested in draw and code front end and python
 - 🌱 I’m currently learning python and front end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in my github nick
